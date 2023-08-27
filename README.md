@@ -17,15 +17,20 @@ SnapResize is a user-friendly image resizing tool developed in Python. It offers
    
    ```
    git clone https://github.com/Shubh2-0/snapresize.git
+   ```
    
 2. **Install Dependencies:** Navigate to the project directory and install the necessary libraries:
 
-```pip install opencv-python-headless```
+   ```
+   pip install opencv-python-headless
+   ```
 
 3. **Run the Application:** Execute the app.py script to launch the GUI:
-```
-python app.py
-```
+
+   ```
+   python app.py
+   ```
+   
 4. **Resize and Preview:** After launching the application, follow these steps:
 
 📌 Click "Browse" to choose an image.
