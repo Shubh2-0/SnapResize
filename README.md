@@ -85,6 +85,7 @@ Open a pull request.
 SnapResize was made possible with the support of these amazing open-source projects:
 
 💫 **OpenCV**
+
 💫 **Tkinter**
 
 🚀 We hope SnapResize enhances your image editing workflow! Happy resizing!
