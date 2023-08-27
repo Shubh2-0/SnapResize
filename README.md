@@ -73,8 +73,11 @@ Contributions are warmly welcomed! If you encounter bugs, have suggestions, or w
 🎀 Fork the repository.
 
 🎀  Create a branch: ```git checkout -b feature/YourFeatureName.```
+
 🎀  Commit your changes: ```git commit -m 'Adding an awesome feature'.```
+
 🎀  Push the branch: ```git push origin feature/YourFeatureName.```
+
 Open a pull request.
 
 ## Acknowledgments 🙏
