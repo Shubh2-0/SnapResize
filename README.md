@@ -44,7 +44,7 @@ Immerse yourself in the world of SnapResize with our captivating demo GIF! Get a
 
 Dive into the world of SnapResize through our captivating screenshots, showcasing the user-friendly interface and powerful image manipulation features. Witness how effortlessly you can resize images and experience the intuitive controls that make SnapResize a go-to tool for all your image editing needs.
 
-![Screenshot 1: Main Interface](images/Ui.gif)
+![Screenshot 1: Main Interface](images/Ui.png)
 
 ## Tools Used 🛠️
 
