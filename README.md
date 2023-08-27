@@ -33,11 +33,15 @@ SnapResize is a user-friendly image resizing tool developed in Python. It offers
    
 4. **Resize and Preview:** After launching the application, follow these steps:
 
-📌 Click "Browse" to choose an image.
-📌 Enter desired width and height values.
-📌 Click "Resize and Display" to preview the resized image.
+📌 Click **"Browse"** to choose an image.
+
+📌 Enter desired **width** and **height** values.
+
+📌 Click **"Resize and Display"** to preview the resized image.
+
 📌 Download the Resized Image: If satisfied with the preview:
-📌 Click "Download Resized Image" to save the resized image.
+
+📌 Click **"Download Resized Image"** to save the resized image.
 
 ## Demo GIF🎥
 
