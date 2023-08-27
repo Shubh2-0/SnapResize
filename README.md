@@ -34,13 +34,37 @@ python app.py
 📌 Download the Resized Image: If satisfied with the preview:
 📌 Click "Download Resized Image" to save the resized image.
 
-## Demo GIF: Experience SnapResize in Motion 🎥
+## Demo GIF🎥
 
 Immerse yourself in the world of SnapResize with our captivating demo GIF! Get a firsthand look at how SnapResize effortlessly transforms images, showcasing its intuitive interface and seamless resizing process. Witness its impact on different image formats, and explore the user-friendly features that make image manipulation a breeze. Join us on a visual journey through SnapResize's capabilities and unlock a new dimension of image editing possibilities.
 
 ![Watch SnapResize Demo GIF](link_to_demo_gif)
 
-## Screenshots 📸
+## User Interface 📸
+
+Dive into the world of SnapResize through our captivating screenshots, showcasing the user-friendly interface and powerful image manipulation features. Witness how effortlessly you can resize images and experience the intuitive controls that make SnapResize a go-to tool for all your image editing needs.
+
+![Screenshot 1: Main Interface](screenshot1_url)
+
+## Tools Used 🛠️
+
+<table align="center">
+  <tr>
+    <td align="center" width="170">
+      <img src="images/python.png" width="48" height="48" alt="Python" />
+      <br>Python 
+    </td>
+    <td align="center" width="170">
+      <img src="images/PyCharm.png" width="45" height="45" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+    <td align="center" width="170">
+      <img src="images/github.png" width="45" height="45" alt="Github" />
+      <br>Github
+    </td>
+  </tr>
+ 
+</table>
 
 
 ## Contributions 🤝
@@ -57,7 +81,7 @@ Open a pull request.
 
 SnapResize was made possible with the support of these amazing open-source projects:
 
-**OpenCV**
-**Tkinter**
+💫 **OpenCV**
+💫 **Tkinter**
 
 🚀 We hope SnapResize enhances your image editing workflow! Happy resizing!
