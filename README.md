@@ -38,13 +38,13 @@ python app.py
 
 Immerse yourself in the world of SnapResize with our captivating demo GIF! Get a firsthand look at how SnapResize effortlessly transforms images, showcasing its intuitive interface and seamless resizing process. Witness its impact on different image formats, and explore the user-friendly features that make image manipulation a breeze. Join us on a visual journey through SnapResize's capabilities and unlock a new dimension of image editing possibilities.
 
-![Watch SnapResize Demo GIF](link_to_demo_gif)
+![Watch SnapResize Demo GIF](images/demo.gif)
 
 ## User Interface 📸
 
 Dive into the world of SnapResize through our captivating screenshots, showcasing the user-friendly interface and powerful image manipulation features. Witness how effortlessly you can resize images and experience the intuitive controls that make SnapResize a go-to tool for all your image editing needs.
 
-![Screenshot 1: Main Interface](screenshot1_url)
+![Screenshot 1: Main Interface](images/UI.gif)
 
 ## Tools Used 🛠️
 
