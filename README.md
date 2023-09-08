@@ -109,8 +109,8 @@ If you want to contact me, you can reach me through below handles.
  </p>
 
 <br>
-<br>
-<br>
+
+
 <div align="center">
   <strong>🚀 I hope SnapResize enhances your image editing workflow! Happy resizing! 🚀</strong>
 </div>
