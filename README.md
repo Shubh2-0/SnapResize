@@ -108,7 +108,6 @@ If you want to contact me, you can reach me through below handles.
   <a href="https://wa.me/+916232133187" target="blank"><img align="center" src="https://media2.giphy.com/media/Q8I2fYA773h5wmQQcR/giphy.gif" width="40px"  alt="whatsapp-me" /></a>&emsp;	
  </p>
 
-<br>
 
 
 <div align="center">
