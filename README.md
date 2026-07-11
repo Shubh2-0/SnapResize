@@ -114,19 +114,7 @@ If you want to contact me, you can reach me through below handles.
   <strong>🚀 I hope SnapResize enhances your image editing workflow! Happy resizing! 🚀</strong>
 </div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
